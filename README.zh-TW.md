@@ -1,5 +1,5 @@
 <p align="center">
-  <strong>🎬 EthosBtc-seedance-lab</strong><br>
+  <strong>🎬 seedance-skills</strong><br>
   <em>Seedance 2.0 × Higgsfield 技能集 | Prompt Engineering Skills Collection</em>
 </p>
 
@@ -114,7 +114,7 @@ Claude (使用電影技能 with cinematic skill):
 ## 📁 倉庫結構 Repository Structure
 
 ```
-EthosBtc-seedance-lab/
+seedance-skills/
 ├── README.md                          # 雙語說明 Bilingual readme (this file)
 ├── LICENSE
 ├── logs.md                            # 構建日誌 Build log

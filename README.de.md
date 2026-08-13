@@ -1,5 +1,5 @@
 <p align="center">
-  <strong>🎬 EthosBtc-seedance-lab</strong><br>
+  <strong>🎬 seedance-skills</strong><br>
   <em>Seedance 2.0 × Higgsfield Fähigkeitssammlung | Prompt Engineering Skills Collection</em>
 </p>
 
@@ -112,7 +112,7 @@ Materialreferenzen Reference materials: `@image1` `@video1` `@audio1`
 ## 📁 Repository-Struktur Repository Structure
 
 ```
-EthosBtc-seedance-lab/
+seedance-skills/
 ├── README.md                          # Zweisprachige README Bilingual readme (this file)
 ├── LICENSE
 ├── logs.md                            # Build-Protokoll Build log

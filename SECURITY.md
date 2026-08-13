@@ -10,7 +10,7 @@
 
 This repository contains Claude skill files (Markdown text) — no executable code beyond the install script, and no API keys. Security risk is low, but if you find any issue, please report it via:
 
-1. **GitHub Issues** — [github.com/Ethosbtc/EthosBtc-seedance-lab/issues](https://github.com/Ethosbtc/EthosBtc-seedance-lab/issues)
+1. **GitHub Issues** — [github.com/Ethosbtc/seedance-skills/issues](https://github.com/Ethosbtc/seedance-skills/issues)
 2. **GitHub Security Advisories** — for sensitive issues (private disclosure)
 
 ### What We Care About

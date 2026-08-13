@@ -24,7 +24,7 @@ Examples of unacceptable behavior include:
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported via [GitHub Issues](https://github.com/Ethosbtc/EthosBtc-seedance-lab/issues). All complaints will be reviewed and investigated.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported via [GitHub Issues](https://github.com/Ethosbtc/seedance-skills/issues). All complaints will be reviewed and investigated.
 
 ## Attribution
 

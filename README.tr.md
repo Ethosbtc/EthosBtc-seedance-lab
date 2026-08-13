@@ -1,5 +1,5 @@
 <p align="center">
-  <strong>🎬 EthosBtc-seedance-lab</strong><br>
+  <strong>🎬 seedance-skills</strong><br>
   <em>Seedance 2.0 × Higgsfield Beceri Koleksiyonu | Prompt Engineering Skills Collection</em>
 </p>
 
@@ -114,7 +114,7 @@ Malzeme Referansları Reference materials: `@image1` `@video1` `@audio1`
 ## 📁 Depo Yapısı Repository Structure
 
 ```
-EthosBtc-seedance-lab/
+seedance-skills/
 ├── README.md                          # İki dilli readme Bilingual readme (this file)
 ├── LICENSE
 ├── logs.md                            # Yapı günlüğü Build log

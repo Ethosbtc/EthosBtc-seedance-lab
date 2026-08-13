@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <strong>🎬 EthosBtc Seedance Lab</strong><br>
+  <strong>🎬 Seedance Skills</strong><br>
   <em>Seedance 2.0 × Higgsfield — 15 Claude Skills for AI Video Prompt Engineering</em><br>
   <sub>Maintained by <a href="https://github.com/Ethosbtc">@EthosBtc</a></sub>
 </p>
@@ -133,7 +133,7 @@ Reference materials in prompts: `@image1` `@video1` `@audio1`
 ## 📁 Repository Structure
 
 ```
-EthosBtc-seedance-lab/
+seedance-skills/
 ├── README.md                          # This file
 ├── README.{fr,de,es,ja,ko,pt,tr,zh-CN,zh-TW}.md
 ├── CHANGELOG.md

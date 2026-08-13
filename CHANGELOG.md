@@ -1,6 +1,6 @@
 # Changelog
 
-All notable changes to `EthosBtc-seedance-lab` are documented in this file.
+All notable changes to `seedance-skills` are documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/).
 
@@ -18,7 +18,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/).
 
 ### Changed
 
-- **Rebranded** — Project renamed to `EthosBtc-seedance-lab`, maintained by [@EthosBtc](https://github.com/Ethosbtc)
+- **Rebranded** — Project renamed to `seedance-skills`, maintained by [@EthosBtc](https://github.com/Ethosbtc)
 - **install.sh** — Windows (Git Bash) support; installs to Claude Code's `~/.claude/skills` by default, overridable via `CLAUDE_SKILLS_DIR`
 - **README** — Updated install instructions and repository structure
 - **Specs refresh** — Seedance 2.0 now outputs up to native 4K on Higgsfield (docs previously said 720p only)

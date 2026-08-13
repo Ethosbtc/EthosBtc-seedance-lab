@@ -1,6 +1,6 @@
 # Contributing Guide
 
-Thank you for your interest in contributing to `EthosBtc-seedance-lab`!
+Thank you for your interest in contributing to `seedance-skills`!
 
 ---
 
@@ -92,6 +92,6 @@ Please see [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
 
 ## Contact
 
-- [GitHub Issues](https://github.com/Ethosbtc/EthosBtc-seedance-lab/issues)
+- [GitHub Issues](https://github.com/Ethosbtc/seedance-skills/issues)
 - [Higgsfield](https://higgsfield.ai)
 - [Seedance 2.0 Create Video](https://higgsfield.ai/create/video?model=seedance_2_0)
